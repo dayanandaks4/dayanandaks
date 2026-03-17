@@ -38,9 +38,29 @@
   <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
-#### 🗄️ Databases & Tools
+#### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,notion,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+#### 🛠️ Dev Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,notion,androidstudio,vscode,discord" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+#### 🤖 AI Tools
+<p>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude%20AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 #### 🧠 CS Fundamentals
@@ -57,6 +77,25 @@
 - ☁️ **AWS** — Cloud infrastructure & services
 - 🤖 **RAG & Fine-Tuning** — AI/ML with LangChain
 - 🐳 **Docker** — Containerization & deployment
+
+---
+
+### ⚔️ Coding Profiles
+
+<p align="left">
+  <a href="https://www.hackerrank.com/YOUR_HANDLE" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/YOUR_HANDLE" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/YOUR_HANDLE" target="_blank">
+    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/YOUR_HANDLE" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
