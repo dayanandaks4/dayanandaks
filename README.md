@@ -23,7 +23,7 @@
 
 #### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,c" />
 </p>
 
 #### 🧩 Frameworks & Libraries
@@ -85,16 +85,16 @@
 ### ⚔️ Coding Profiles
 
 <p align="left">
-  <a href="https://www.hackerrank.com/YOUR_HANDLE" target="_blank">
+  <a href="https://www.hackerrank.com/profile/dayanandaks045" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_HANDLE" target="_blank">
+  <a href="https://leetcode.com/u/Dayananda_K_S_1/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/YOUR_HANDLE" target="_blank">
+  <a href="https://www.codechef.com/users/safe_bees_52" target="_blank">
     <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR_HANDLE" target="_blank">
+  <a href="https://www.kaggle.com/dayanandaks" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
@@ -104,12 +104,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayanandaks4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayanandaks4&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandaks4&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -117,16 +117,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/dayanandaks" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+  <a href="https://x.com/KDayananda92841" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
+  <a href="https://medium.com/@dayanandaks045" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
@@ -134,7 +134,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dayanandaks4&label=Profile%20Views&color=00C2FF&style=flat" alt="profile views" />
 </p>
 
 <p align="center">⭐️ <i>"Code. Learn. Build. Repeat."</i> ⭐️</p>
