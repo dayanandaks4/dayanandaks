@@ -1,14 +1,99 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daya__k_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dayanandaks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayanandaks045@gmail.com) 
+<h1 align="center">Hi 👋, I'm Dayananda K S</h1>
+<h3 align="center">CSE Student | Flutter & AWS Learner | Full Stack & AI/ML Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dayanandaks4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dayanandaks4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandaks4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+%F0%9F%8E%93;Flutter+%26+AWS+Explorer+%E2%98%81%EF%B8%8F;Building+AI+%26+Full+Stack+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dayanandaks4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+- 🎓 **6th Semester** Computer Science & Engineering Student
+- 📱 Currently learning **Flutter** & **AWS Cloud**
+- 🤖 Exploring **LangChain**, **RAG**, and **Fine-Tuning** for AI apps
+- 🛠️ Building Full Stack apps with **Spring Boot**, **Flask** & **React**
+- 🐧 Daily driving **Fedora Linux**
+- 🎯 Goal: Build scalable AI-powered & cloud-native applications
+- 📝 Writing on **Medium** | Connecting on **LinkedIn** & **X**
+
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css" />
+</p>
+
+#### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flask,flutter" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+#### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,linux" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+#### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,notion,androidstudio" />
+</p>
+
+#### 🧠 CS Fundamentals
+![DSA](https://img.shields.io/badge/DSA%20in%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
+
+---
+
+### 📚 Currently Learning
+
+- 📱 **Flutter** — Cross-platform mobile development
+- ☁️ **AWS** — Cloud infrastructure & services
+- 🤖 **RAG & Fine-Tuning** — AI/ML with LangChain
+- 🐳 **Docker** — Containerization & deployment
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=flat" alt="profile views" />
+</p>
+
+<p align="center">⭐️ <i>"Code. Learn. Build. Repeat."</i> ⭐️</p>
