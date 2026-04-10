@@ -96,7 +96,9 @@
   </a>
   <a href="https://www.kaggle.com/dayanandaks" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
+<a href="https://ap.www.namecheap.com/" target="_blank">
+    <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white"/>
+</a>
   
 </p>
 
