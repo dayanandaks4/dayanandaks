@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **6th Semester** Computer Science & Engineering Student
-- 📱 Currently learning **AWS Cloud **
+- 📱 Currently learning **AWS Cloud**
 - 🤖 Exploring **LangChain**, **RAG**, and **Fine-Tuning** for AI apps
 - 🛠️ Building Full Stack apps with **Spring Boot**  & **React**
 - 🐧 Daily driving **Ubuntu & Fedora Linux**
@@ -103,8 +103,8 @@
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   
 </p>
----
 
+---
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -112,7 +112,6 @@
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 
 <p align="left">
