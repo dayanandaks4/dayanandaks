@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dayananda K S</h1>
-<h3 align="center">CSE Student | Flutter & AWS Learner | Full Stack & AI/ML Enthusiast</h3>
+<h3 align="center">JAVA Backend Devloper | AWS Learner | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+%F0%9F%8E%93;Flutter+%26+AWS+Explorer+%E2%98%81%EF%B8%8F;Building+AI+%26+Full+Stack+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
@@ -10,12 +10,12 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **6th Semester** Computer Science & Engineering Student
-- 📱 Currently learning **Flutter** & **AWS Cloud**
+- 📱 Currently learning **AWS Cloud **
 - 🤖 Exploring **LangChain**, **RAG**, and **Fine-Tuning** for AI apps
-- 🛠️ Building Full Stack apps with **Spring Boot**, **Flask** & **React**
-- 🐧 Daily driving **Fedora Linux**
+- 🛠️ Building Full Stack apps with **Spring Boot**  & **React**
+- 🐧 Daily driving **Ubuntu & Fedora Linux**
 - 🎯 Goal: Build scalable AI-powered & cloud-native applications
-- 📝 Writing on **Medium** | Connecting on **LinkedIn** & **X**
+- 📝 Connecting on **LinkedIn** & **X**
 
 ---
 
