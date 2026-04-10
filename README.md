@@ -85,11 +85,11 @@
 ---
 ### Domain(DNS)
 - **Namecheap**-Domian Name System
-- <p
-- <a href="https://ap.www.namecheap.com/" target="_blank">
-    <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white"/>
+<p
+<a href="https://ap.www.namecheap.com/" target="_blank">    <img alt="Namecheap" src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white"/>
 </a>
 </p>
+---
 ### ⚔️ Coding Profiles
 
 <p align="left">
