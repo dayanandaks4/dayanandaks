@@ -60,10 +60,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayananda-ks&theme=tokyonight&hide_border=true" />
 </p>
 
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandaks4&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
