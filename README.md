@@ -2,7 +2,7 @@
 <h3 align="center">JAVA Backend Developer | AWS Learner | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+%F0%9F%8E%93;Flutter+%26+AWS+Explorer+%E2%98%81%EF%B8%8F;Building+AI+%26+Full+Stack+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+%F0%9F%8E%93;AWS+Explorer+%E2%98%81%EF%B8%8F;Building+AI+%26+Full+Stack+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A5" />
 </p>
 
 ---
@@ -111,7 +111,7 @@
 ## 📊 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayanandaks4&label=Profile%20Views&color=00C2FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dayananda-ks&label=Profile%20Views&color=00C2FF&style=flat" />
 </p>
 
 ---
