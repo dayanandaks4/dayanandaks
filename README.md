@@ -1,49 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Dayananda K S</h1>
 <h3 align="center">JAVA Backend Developer | AWS Learner | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+%F0%9F%8E%93;Flutter+%26+AWS+Explorer+%E2%98%81%EF%B8%8F;Building+AI+%26+Full+Stack+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A5" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 6th Semester Computer Science & Engineering Student  
-- ☁️ Currently learning AWS Cloud  
-- 🤖 Exploring LangChain, RAG, Fine-Tuning AI models  
-- 🛠️ Building Full Stack apps using Spring Boot & React  
-- 🐧 Linux user (Ubuntu & Fedora)  
-- 🎯 Goal: Build scalable AI + Cloud applications  
-- 🌐 Active on LinkedIn & X  
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,c" />
-</p>
-
-### 🧩 Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,flask" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,notion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+%F0%9F%8E%93;AWS+Cloud+Explorer+%E2%98%81%EF%B8%8F;Building+AI+%26+Full+Stack+Apps+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%94%A5" />
 </p>
 
 ---
@@ -52,40 +12,54 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayanandaks4&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔥 GitHub Streak (Longest streak shown here)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dayanandaks4&theme=tokyonight&hide_border=true" />
-</p>
-
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanandaks4&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dayananda-ks&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayananda-ks&theme=tokyonight&hide_border=true" />
+</p>
 
-- 📱 Flutter App Development  
-- ☁️ AWS Cloud Services  
-- 🤖 RAG + LangChain AI Apps  
-- 🐳 Docker & Deployment  
+---
+
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 6th Semester CSE Student  
+- ☁️ Learning AWS Cloud  
+- 🤖 Exploring AI (LangChain, RAG, Fine-Tuning)  
+- 🛠️ Building Spring Boot + React apps  
+- 🐧 Linux user (Ubuntu & Fedora)  
+- 🎯 Goal: Become Full Stack + AI Engineer  
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,c,spring,flutter,aws,docker,linux,mysql,mongodb,git,github,vscode" />
+</p>
 
 ---
 
 ## ⚔️ Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/u/Dayananda_K_S_1/">
+  <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.codechef.com/users/safe_bees_52">
+  <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/dayanandaks045">
+  <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
@@ -95,14 +69,11 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/dayanandaks">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
@@ -111,11 +82,11 @@
 ## 📊 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayanandaks4&label=Profile%20Views&color=00C2FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dayananda-ks&label=Profile%20Views&color=00C2FF&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-  ⭐ "Code. Learn. Build. Repeat." ⭐
+⭐ "Code. Learn. Build. Repeat." ⭐
 </p>
