@@ -100,13 +100,6 @@
 
 ---
 
-## 📊 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayananda-ks&label=Profile%20Views&color=00C2FF&style=flat" />
-</p>
-
----
 
 <p align="center">
   ⭐ "Code. Learn. Build. Repeat." ⭐
