@@ -60,8 +60,6 @@
 ---
 
 ## 📚 Currently Learning
-
-- 📱 Flutter App Development  
 - ☁️ AWS Cloud Services  
 - 🤖 RAG + LangChain AI Apps  
 - 🐳 Docker & Deployment  
